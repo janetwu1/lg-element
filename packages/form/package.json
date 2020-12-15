@@ -1,5 +1,5 @@
 {
-  "name": "lg-form",
+  "name": "lg-form1",
   "version": "0.0.2",
   "description": "",
   "main": "dist/cjs/index.js",
@@ -14,5 +14,5 @@
   "dependencies": {
     "lodash": "4"
   },
-  "gitHead": "f42c47837689bfa7332f36dff31deeee2cbffc3a"
+  "gitHead": "d745c64448b73eeb4658440e36289a703bcf89ec"
 }
