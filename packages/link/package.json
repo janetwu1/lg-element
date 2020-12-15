@@ -4,11 +4,11 @@
   "description": "lg-link component",
   "main": "dist/cjs/index.js",
   "module": "dist/es/index.js",
-  "author": "",
+  "author": "janet",
   "license": "MIT",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "gitHead": "d745c64448b73eeb4658440e36289a703bcf89ec"
+  "gitHead": "1cdd76da126d299b0b0041ada2ecae9d850ca714"
 }

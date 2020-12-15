@@ -9,10 +9,10 @@
     "del": "rimraf dist"
   },
   "keywords": [],
-  "author": "",
+  "author": "janet",
   "license": "MIT",
   "dependencies": {
     "lodash": "4"
   },
-  "gitHead": "d745c64448b73eeb4658440e36289a703bcf89ec"
+  "gitHead": "1cdd76da126d299b0b0041ada2ecae9d850ca714"
 }
