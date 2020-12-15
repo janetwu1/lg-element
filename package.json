@@ -14,7 +14,7 @@
     "lerna":"lerna publish"
   },
   "keywords": [],
-  "author": "",
+  "author": "janet",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.12.10",
