@@ -1,5 +1,5 @@
 {
-  "private": "true",
+  "private": true,
   "workspaces": [
     "packages/*"
   ],
@@ -11,7 +11,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
-    "lerna":"lerna publish"
+    "lerna": "lerna publish"
   },
   "keywords": [],
   "author": "janet",
@@ -30,5 +30,6 @@
   "dependencies": {
     "async-validator": "^3.5.1",
     "vue": "^2.6.12"
-  }
+  },
+  "repository": "https://github.com/janetwu1/lg-element.git"
 }
