@@ -9,10 +9,10 @@
     "del": "rimraf dist"
   },
   "keywords": [],
-  "author": "教瘦 <54337467@qq.com>",
+  "author": "",
   "license": "MIT",
   "dependencies": {
     "lodash": "4"
   },
-  "gitHead": "930f550a1a0da8370aa81ab36274b6d5d281dbf8"
+  "gitHead": "f42c47837689bfa7332f36dff31deeee2cbffc3a"
 }
